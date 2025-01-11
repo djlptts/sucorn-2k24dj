@@ -5,7 +5,7 @@ import sys
 sys.path.append('./features')
 from catrescue import catDownloader
 
-MY_GUILD = discord.Object(id=400834586860322817)
+
 buttons = []
 
 async def buttonCB(interaction: discord.Interaction, button: discord.ui.Button, mode: str, view: discord.ui.View):
