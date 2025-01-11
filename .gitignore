@@ -11,3 +11,4 @@ videos/
 /utilities/reverse_imagen3/prompt.txt
 # might want to change to tokens.json
 /venv
+.codegpt
