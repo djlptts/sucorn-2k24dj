@@ -5,7 +5,7 @@ single image case, hard to see for those more than 1
 {
     "imagePanels": [
         {
-        "prompt": ""in an anime there is a young white skinned male with black hair and his blonde haired wife dressed in workout clothing bouncing up and down on two giant, oversized orange space hopper balls,anime style",
+        "prompt": "A whimsical anime catgirl with beautiful eyes and long, flowing pink hair, playfully bouncing on a brightly colored space hopper, anime style",
         "generatedImages": [
             {
             "encodedImage": "",
