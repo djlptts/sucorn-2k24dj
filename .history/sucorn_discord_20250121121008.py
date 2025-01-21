@@ -124,7 +124,7 @@ async def statistics(interaction: discord.Interaction, target:str=''):
         await silly_message(interaction, title="Channel is not a valid channel")
         return
 
-    if interaction.user.id != 400834586860322817:
+    if interaction.user.id != 716821667539583026:
         await silly_message(interaction, title="Not authorized to use this command")
         return
     else:
