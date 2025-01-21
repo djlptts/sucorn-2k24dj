@@ -5,7 +5,9 @@ single image case, hard to see for those more than 1
 {
     "imagePanels": [
         {
-        "prompt": "In an anime, A young, happy anime male with black hair and his blonde haired anime wife bouncing on  2  oversized  orange space hopper balls with a handle,ball and handle are of the same color,The young, happy anime male with black hair and his blonde haired anime wife is holding onto the handles of their space hopper balls,The young, happy anime male with black hair and his blonde haired anime wife's legs stretched out wide, The young, happy anime male with black hair and his blonde haired anime wife wearing swimsuits, are barefoot, safe for work, age appropriate,ball off the ground, colored, beach, closeup"
+        "prompt": "In an anime, A young, happy anime male with black hair and his blonde haired anime wife bouncing on  2  oversized  orange space hopper balls with a handle,ball and handle are of the same color,The young, happy anime male with black hair and his blonde haired anime wife is holding onto the handles of their space hopper balls,
+The young, happy anime male with black hair and his blonde haired anime wife's legs stretched out wide, The young, happy anime male with black hair and his blonde haired anime wife wearing swimsuits, are barefoot, safe for work, age appropriate
+ball off the ground, colored, beach, closeup"
         "generatedImages": [
             {
             "encodedImage": "",
