@@ -1,6 +1,3 @@
-from http import client
-
-
 @client.tree.command(description='Owner only, to download all current unlabelled images, DEPRECATED')
 @discord.app_commands.describe(target='Target Channel', placeholder='Use placeholders in last 8 characters of file name')
 async def download_all(interaction: discord.Interaction, target:str='', placeholder:bool=True): 
