@@ -80,7 +80,7 @@ async def silly_embed(interaction: discord.Interaction, message: str, title: str
 
 @client.tree.command(name='sync', description='Owner only, command tree sync only when needed')
 async def sync(interaction: discord.Interaction):
-    if interaction.user.id == 400834586860322817:
+    if interaction.user.id == :
         await client.tree.sync()
         await interaction.response.send_message('Command tree synced.')
     else:

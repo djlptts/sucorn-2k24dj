@@ -9,7 +9,7 @@ MY_GUILD = discord.Object(id=1213296530078048326)
 buttons = []
 
 async def buttonCB(interaction: discord.Interaction, button: discord.ui.Button, mode: str, view: discord.ui.View):
-    if interaction.user.id !=400834586860322817:
+    if interaction.user.id !=:
         await interaction.response.send_message('Not authorised to use this button', ephemeral=True) 
         print(f'{datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")}: BAKA DETECTED USING BUTTONS! {interaction.user.id}')
     else:
