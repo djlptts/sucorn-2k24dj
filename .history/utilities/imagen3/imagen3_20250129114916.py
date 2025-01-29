@@ -5,7 +5,7 @@ single image case, hard to see for those more than 1
 {
     "imagePanels": [
         {
-        "prompt": "A whimsical anime woman with beautiful eyes and long, flowing blonde hair, playfully bouncing on a brightly colored space hopper, anime style. Beside her, her young husband, a 24-year-old anime human male with white skin, a black low taper fade haircut, and no facial hair, joyfully bounces on his own brightly colored space hopper, sharing the fun with her."
+        "prompt": "A young, happy anime male with black hair and his blonde haired anime wife bouncing up and down on two giant, bouncy  & oversized orange space hopper balls with a handle, both ball and handle are of the same color,The young, happy anime male with black hair and his blonde haired anime wife is holding onto the handles of their space hopper balls,The young, happy anime male with black hair and his blonde haired anime wife's legs stretched out wide, The young, happy anime male with black hair and his blonde haired anime wife wearing swimsuits, are barefoot, safe for work, age appropriate, the giant, oversized orange space hopper balls are off the ground, colored, beach, closeup"
         "generatedImages": [
             {
             "encodedImage": "",

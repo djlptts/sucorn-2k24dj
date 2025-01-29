@@ -5,7 +5,7 @@ single image case, hard to see for those more than 1
 {
     "imagePanels": [
         {
-        "prompt": "A whimsical anime woman with beautiful eyes and long, flowing blonde hair, playfully bouncing on a brightly colored space hopper, anime style. Beside her, her young husband, a 24-year-old anime human male with white skin, a black low taper fade haircut, and no facial hair, joyfully bounces on his own brightly colored space hopper, sharing the fun with her."
+        "prompt": ""
         "generatedImages": [
             {
             "encodedImage": "",
